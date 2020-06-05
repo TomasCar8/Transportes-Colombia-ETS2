@@ -1,0 +1,43 @@
+*{
+    ; padding: 0;
+}
+h1{
+    font-size: 50px;font-family: sans-serif;font-weight: bolder; padding-top: 0; margin: 15px;
+}
+h2{
+    font-size: 35px;font-family: sans-serif ;font-weight: lighter;
+}
+.letra{
+    font-size: 12px;font-family: sans-serif;font-weight: bold; ;
+}
+.publicado{
+    font-size: 12px;font-family: sans-serif;font-weight: bold;color: gray;
+}
+body{
+    text-align: left; display: block;
+}
+div{
+    background-color: blue; border: 2.5px solid black; color: yellow;
+}
+#thanks{
+    background-color: yellow; border: 2.5px solid black; border-bottom: 1px solid black;
+}
+.li{
+    list-style: none;  padding: 5px; display: inline-block; font-size: 18px; font-weight: bolder; margin: 15px;text-align: left; background-color: red;
+}
+.cabecera{
+    text-align: left;
+}
+section, footer{
+    margin: 15px; text-align: center;
+}
+.Copy{
+    text-align: left;
+}
+.li2{
+    list-style: none;
+}
+.div2{
+    background-color: red; border: 2.5px solid black; color: yellow;
+}
+
